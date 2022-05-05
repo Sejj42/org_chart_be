@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 # To run the development server:
 
@@ -8,7 +8,7 @@ npm start
 
 Open [http://localhost:5000](http://localhost:5000) with your browser to see the result.
 
-# Don't forget to npm install !
+## Don't forget to npm install !
 
 ## Notes
 
